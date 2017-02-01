@@ -1,0 +1,14 @@
+name: pewpew
+version: 0.1.0
+
+authors:
+  - Lord Niels N. Horn <i.am@nilq.dk>
+  - Emile <idgaf>
+
+targets:
+  pewpew:
+    main: src/pewpew.cr
+
+crystal: 0.20.1
+
+license: MIT
